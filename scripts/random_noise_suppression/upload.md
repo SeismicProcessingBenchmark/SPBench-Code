@@ -51,7 +51,7 @@ git --version
 目标 Hugging Face 仓库地址，例如：
 
 ```bash
-HF_REPO_URL="https://huggingface.co/your-hf-org/random-noise-attenuation"
+HF_REPO_URL="https://huggingface.co/SPBench/SPBench-Model"
 ```
 
 ### `RESULTS_ROOT`

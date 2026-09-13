@@ -4,8 +4,8 @@
 set -euo pipefail
 
 # ---------- User-tunable configuration ----------
-HF_REPO_URL="https://huggingface.co/your-hf-org/random-noise-attenuation"
-HF_REPO_ID="your-hf-org/random-noise-attenuation"
+HF_REPO_URL="https://huggingface.co/SPBench/SPBench-Model"
+HF_REPO_ID="SPBench/SPBench-Model"
 
 # Local training results root on the Linux training machine.
 RESULTS_ROOT="/root/Desktop/data/results/random_noise"

@@ -9,7 +9,7 @@ Default mapping example:
     -> models/unet/gaussian_snr0_seed42/config.yaml
 
 Usage:
-    export HF_NAMESPACE=your-hf-org
+    export HF_NAMESPACE=SPBench
     export HF_TOKEN="your_hf_token"
     python scripts/random_noise_suppression/upload_random_model_to_hf.py --dry-run
 

@@ -119,7 +119,7 @@ upload_random_model_to_hf.py
 在 Linux 终端里先设置：
 
 ```bash
-export HF_NAMESPACE=your-hf-org
+export HF_NAMESPACE=SPBench
 export HF_TOKEN=你的_huggingface_token
 ```
 

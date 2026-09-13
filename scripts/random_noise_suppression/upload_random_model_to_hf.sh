@@ -4,7 +4,7 @@
 set -euo pipefail
 
 # ---------- User-tunable configuration ----------
-export HF_NAMESPACE="your-hf-org"
+export HF_NAMESPACE="SPBench"
 # export HF_TOKEN="your_hf_token"
 
 REPO_NAME="random-noise-attenuation"

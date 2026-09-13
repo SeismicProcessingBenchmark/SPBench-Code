@@ -2,7 +2,7 @@
 Upload trained model checkpoints (best.pt + config.yaml) to a Hugging Face repository.
 
 Usage:
-    export HF_NAMESPACE=your-hf-org  # or HF_USERNAME (personal account)
+    export HF_NAMESPACE=SPBench  # or HF_USERNAME (personal account)
     export HF_TOKEN="your_hf_token"
     python tools/upload_model_to_hf.py --models unet res_unet
 
